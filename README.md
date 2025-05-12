@@ -29,7 +29,7 @@
 
 ```bash
 cd backend
-# Configure o application.properties com as credenciais do MongoDB e Supabase
+# Configure o application.properties com as credenciais do MongoDB
 ./mvnw spring-boot:run
 
 ```
